@@ -38,6 +38,6 @@ button {
   background: white;
   border: 1px solid #eee;
   padding: 8px 16px;
-  align-items: center;
-  
+  display: block;
+  margin: 0 auto;
 }
